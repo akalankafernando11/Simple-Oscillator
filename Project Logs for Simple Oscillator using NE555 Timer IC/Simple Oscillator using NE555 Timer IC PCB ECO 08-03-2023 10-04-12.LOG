@@ -1,0 +1,101 @@
+Added Component: Designator=C1(CC0603KRX7R9BB203)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811082015_YAGEO-CC0603KRX7R9BB203_C282065.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C282065"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr.Part #"; Value = "CC0603KRX7R9BB203"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape & Reel (TR)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20nF"; VariantName = "[No Variations]"
+Added Component: Designator=C2(EEUED2C250U)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr.Part #"; Value = "EEUED2C250U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "RADIAL-2 Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "25uF"; VariantName = "[No Variations]"
+Added Component: Designator=P1(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P2(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RESC1005X40X25NL05T10)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1809181725_YAGEO-RC0402FR-0722KL_C82868.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C82868"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = " YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr.Part #"; Value = "RC0402FR-0722KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape & Reel (TR)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22kO "; VariantName = "[No Variations]"
+Added Component: Designator=S?(TL1105AF160Q)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1809291031_E-Switch-TL1105AF160Q_C273465.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C273465"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "E-Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr.Part #"; Value = "TL1105AF160Q"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Plugin,6x6mm"; VariantName = "[No Variations]"
+Added Component: Designator=U1(P0008A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1809042012_Texas-Instruments-NE555P_C46749.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C46749"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr.Part #"; Value = "NE555P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DIP-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tube-packed"; VariantName = "[No Variations]"
+Added Component: Designator=VR1(3296W-1-104)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1912111437_BOCHEN-Chengdu-Guosheng-Tech-3296W-1-104_C330435.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C330435"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "BOCHEN(Chengdu Guosheng Tech)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr.Part #"; Value = "3296W-1-104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Plugin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bag-packed"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100kO"; VariantName = "[No Variations]"
+Added Component: Designator=VR2(3296X-1-103)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811011704_BOCHEN-Chengdu-Guosheng-Tech-3296X-1-103_C118955.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C118955"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "BOCHEN(Chengdu Guosheng Tech)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part #"; Value = "3296X-1-103"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Plugin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10kO"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=GND Pin=S?-1
+Added Pin To Net: NetName=GND Pin=S?-2
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=U1-2
+Added Pin To Net: NetName=NetC1_1 Pin=U1-6
+Added Pin To Net: NetName=NetC1_1 Pin=VR1-3
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC2_N Pin=C2-N
+Added Pin To Net: NetName=NetC2_N Pin=VR2-2
+Added Net: Name=NetC2_N
+Added Pin To Net: NetName=NetC2_P Pin=C2-P
+Added Pin To Net: NetName=NetC2_P Pin=U1-3
+Added Net: Name=NetC2_P
+Added Pin To Net: NetName=NetP1_2 Pin=P1-2
+Added Pin To Net: NetName=NetP1_2 Pin=R1-2
+Added Pin To Net: NetName=NetP1_2 Pin=U1-4
+Added Pin To Net: NetName=NetP1_2 Pin=U1-8
+Added Net: Name=NetP1_2
+Added Pin To Net: NetName=NetP2_1 Pin=P2-1
+Added Pin To Net: NetName=NetP2_1 Pin=VR2-3
+Added Net: Name=NetP2_1
+Added Pin To Net: NetName=NetP2_2 Pin=P2-2
+Added Pin To Net: NetName=NetP2_2 Pin=S?-3
+Added Pin To Net: NetName=NetP2_2 Pin=S?-4
+Added Net: Name=NetP2_2
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=U1-7
+Added Pin To Net: NetName=NetR1_1 Pin=VR1-2
+Added Net: Name=NetR1_1
+Added Class: Name=Simple Oscillator using NE555 Timer IC
+Added Room: Name=Simple Oscillator using NE555 Timer IC
